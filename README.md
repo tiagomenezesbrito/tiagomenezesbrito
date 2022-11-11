@@ -50,9 +50,6 @@ object **TIAGO ** {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 📷 [instagram][tiago_mbrito] **|** 
 👔 [linkedin][https://www.linkedin.com/in/tiago-menezes-6960ba23b/]
 
