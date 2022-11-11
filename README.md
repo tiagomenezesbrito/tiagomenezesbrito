@@ -38,7 +38,7 @@ object **TIAGO ** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagomenezesbrito_icons=true&theme=dracula&line_height=27" alt="**Tiago** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagomenezesbritoicons=true&theme=dracula&line_height=27" alt="**Tiago** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
